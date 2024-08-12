@@ -19,9 +19,4 @@ The **SmartFace Recognition System** is a sophisticated application designed to 
 - **NumPy**: Library for numerical operations on arrays.
 - **PIL**: Python Imaging Library for image processing.
 
-### Installation
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/SmartFace-Recognition-System.git
+### Code available in master repository
